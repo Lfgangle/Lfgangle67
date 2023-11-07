@@ -1,0 +1,26 @@
+{
+  "name": "Andre Wood",
+  "age": 58,
+  "address": {
+    "street": "Gacuda Terrace",
+    "city": "Efebalhip",
+    "state": "CO",
+    "zip": "64587"
+  },
+  "contact": {
+    "phone": "(467) 724-9841",
+    "servicePhone": "800861442"
+  },
+  "birthday": "1995-10-02T04:52:18.280Z",
+  "ip": "117.229.128.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Keulloc rer fiwur ed owi jike towesuc kibfigo nadovite hokkuztu tijga hemer. Seotoozi nospiow mit vi ca tele hehila sitzegu ehujohso buni lo buwewuk ca zugzisgu cecda or kihsirup. Wetiv rohjo ruvu pap vev hafavon nussonrec paham na bac at bis kikoj matijout aziokojon. Waezisu amja gedanet nibracze wola bu co amuila jipoc ki niw bezelow luwo ajfibma umbe geivbez kakju jec. Womilu katun fesi okabioso ra mu farechon gat akawawpa cep ogmec ivaroc ja heceha.",
+    "bio": "Witus nubzo sagim tapruvjaw lot vemsimot iksukho ga siki pafnebnew geg pebjuhef re. Buce hu ut wu fi huga ipire job ta upsitac nofwa sehsef ma. Hajeze nibgi odwec hok ac naczon ivdaub umdo kigsete cilte peb dov roh jofu lu emwosrih owesig."
+  },
+  "apiKey": "190f7f8ee1e82695b49efa0619c66d65df98161defb8c8ad8866eba86e2343e0",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
