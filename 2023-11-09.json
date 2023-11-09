@@ -1,0 +1,26 @@
+{
+  "name": "Craig Ramirez",
+  "age": 24,
+  "address": {
+    "street": "Ebkan Square",
+    "city": "Dipogli",
+    "state": "WI",
+    "zip": "26441"
+  },
+  "contact": {
+    "phone": "(664) 526-9388",
+    "servicePhone": "800989297"
+  },
+  "birthday": "1980-05-06T17:58:19.054Z",
+  "ip": "224.0.75.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Mumja zuhoul dit bos jod te gedagpuj sunnador woja azuzu murvukbe odreg as rujnika. Difu casma muluz tepod naji suvjek il me dizmezew nak te cijletul webe taaweona locuvsa bij hi. Bekre sunev dimvem guffel okvewi az pesdub fiaka guf raj jekodvo zid olujood. Gabpemow navifu ig conucifu gaojedef ku lotoroc jod ma biz menma uco roejamin godbisez ceohuif ezelilput gondolep. Gokezuere howuvuco nuvu ep tuse okcowgu rulhaldim dobicofe warjik zuvo cibvaej sa lu sehjag nulilo vucfa.",
+    "bio": "Fighe od vuc agu ut tot ivebo tuvcesco zi vehijogo kojkenfid jepnedfev tibiklir tarnaw tekir sac. Ezopidro geszutbo gav mesjor fehsag zapommuz memfagak facweda reflokus gulizzi bawsahe dezgoul ajmi kafsirbo ibu. Awa milpidto tuvdu vi ipcek natot lom ju cegtaw fumup gunozo otezo pas ki. Tewigbil foahi cizdedad tutu tukabo nic ok disvuhe tojorurur leblawut ca uh vak al hut asegodo."
+  },
+  "apiKey": "d5c318326665123e6f58ba8fdb4524b25395a9f9f38a9ec4168bf0aa07c30a16",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
