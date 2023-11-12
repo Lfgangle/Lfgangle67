@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Delgado",
+  "age": 50,
+  "address": {
+    "street": "Robogo Terrace",
+    "city": "Uborijsas",
+    "state": "SC",
+    "zip": "22133"
+  },
+  "contact": {
+    "phone": "(989) 794-8194",
+    "servicePhone": "800261285"
+  },
+  "birthday": "1989-08-13T01:07:09.479Z",
+  "ip": "63.103.219.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Te medi sa zu cake rajuv se ec salji jet hag remik. Wo nomoah ewive wenrob rohu wan fojanda ewo hastef dodupeg ufbowu ibu. Rijba waksuk koccoduw ma damehe kazahni puzfac feg luli bezigki camel bicimi jazo jilba eb ko botutpaw wivovwoj. Upejew em feme vejebure dilber jozalo vo kahdagaw pa enazu ituwamak ud luzohvef fi oga.",
+    "bio": "Wujnouka ajujufmi gutisudeb ziz wigzate zoeza pilcodit kotil wicjub madaj mecri anusuvoza zane jabedco no alucumdo gu. Hanfavwil dar jipo ponod firuwo ni radug vuwjo fu fanave je pigo leew hijkawufu. Anod lah daj tivhi put ot ga tumka pomtaw hol ocworhop didri sujak peh. Muhvotit peglufi muttuc vofalha hul fo sarohra cuv sevegik bisocrik ub feasi nehloj zi sulmicuc ir bezami gahnonciw. Vol mugu zevhum kubgul zanomru ato nilvis ih en ikewo vawna wobefa lug leh jujok kud ignidit."
+  },
+  "apiKey": "8f6eef5d16fcb46bdb22ea3f9bd1e0e033a63940dc0fe0f8098313b7ada72588",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
