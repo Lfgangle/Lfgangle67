@@ -1,0 +1,26 @@
+{
+  "name": "Nancy King",
+  "age": 65,
+  "address": {
+    "street": "Efasob Grove",
+    "city": "Togigko",
+    "state": "NJ",
+    "zip": "69572"
+  },
+  "contact": {
+    "phone": "(602) 788-2766",
+    "servicePhone": "800194229"
+  },
+  "birthday": "2006-04-22T19:45:38.074Z",
+  "ip": "148.32.227.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Bovo uvkis fegsuf ov cah ope ide ned wium pogirak wuliloka kuvej wizzu asataeti ra. Ute ziziz heruro puw siifu maecbe ale ru nupfihi hefa pet og uvcaw ose. Ce ko vabbac fid cil eb ape jufiasu fav modesoh hicfige ufta.",
+    "bio": "Bo fapfa rabe biwsugas evdi nommol je igo uriegnuw zuma jaata revse doj du gajjiseg je cake heapol. Cukosjus ja voh ikelogreb tugwogbu biod gecsuvnu kipvu sacijaan izco espe op gad jiwbabmej. Fodvuhumo igtenez lalhuc piwmof fec pibjiza vih suf adodomu mozi bavubupod vermackic ikudof buhe oso."
+  },
+  "apiKey": "cdeab732617404e6a0a5009ca514c9732ea3e8c2f2db3b3b1e5bef10acc83146",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
