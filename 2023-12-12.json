@@ -1,0 +1,26 @@
+{
+  "name": "Alice Byrd",
+  "age": 42,
+  "address": {
+    "street": "Asewar Circle",
+    "city": "Looroce",
+    "state": "WY",
+    "zip": "64941"
+  },
+  "contact": {
+    "phone": "(300) 552-3493",
+    "servicePhone": "800189961"
+  },
+  "birthday": "1983-12-01T22:50:54.845Z",
+  "ip": "17.37.17.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Zumha en zun ipuzes nazer juhdekap vililo wa wihew pa ugumi acizuko usgoto. Tas owom ekise faor runu mezgudhuf duvic sel do fu nafi hinacga. Pilgedwo bus raj hupa hothemek gop ibe ijogimfo konu wegpezem da bed nakruzge etu me. Ca kizi veno haomiuk tab pawbukni te lakouz mun sok medipe zivu cofohip tijukmeg kogi gahesit ufiiwu. Sewajrab li ja ge tufo vevdi ne izoti ge zarwekbi ras biwopel we fe husdugib hasnob du vubdohpo. Fursizvar hawtav zihwos efkadcib ureluzak ojiecu wudze faz mu ijosek pujva li ecocof.",
+    "bio": "Ito do ud ejita osruz jeslipud pu wueg ge agamaba ilo evo ud gevtup fek zivuhlup. Ker rocueri sujlek had og ba emjowkuz hif mo tu uho fonige fe doirihe zubbumopi fubjichi enibobrob. Cufre itedat ruhni uvuacanep egaziwe nauzmin celebah ki mokasaan acigof howunah bu cew co. Ve fe fepo lo obualoga ja lomot itu cu ti rif rek."
+  },
+  "apiKey": "9dc121b4861f048b0489a66885724a252a59620261c832793877fc7d7e20e162",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
