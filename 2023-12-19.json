@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Thornton",
+  "age": 25,
+  "address": {
+    "street": "Rulwes Lane",
+    "city": "Hurupib",
+    "state": "IL",
+    "zip": "42190"
+  },
+  "contact": {
+    "phone": "(464) 913-7917",
+    "servicePhone": "800923983"
+  },
+  "birthday": "1991-09-24T09:14:23.601Z",
+  "ip": "48.7.123.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Odaak liirdem kunli ajpavza vacok pase odorek picukita wud lazzot werih misa. Vonirom opel kugo wibse jutun zop nujpu vupsu unukro zu se ca. Vustoh hovgec rero lavijef nuk mifike uriibah tenew bopanusew we doglacwup zigeldep tanzoero.",
+    "bio": "Put no vobegco pumuc uzurer biak coz heb ki deriz upotulat jo kene mokahaz jizwoj. Pop ariajzom zendiz zap mowutib zuw piwe wok vukmi reesevid no po bi unwa. Ri peab iwkowce ridivfi te ike fi dub taosu dolu pag zipadem jivusizu zivdoli vakvof nusmik. Duv vowej voh viswag ne pulsas agasalgac jabuspan luoda pid kivil na nupsah. Fu bow kiarinan lotigtu fafawoeso bowbaluja rabuho boacu oz kepidum icporne walcol puzujfi noheguru gogkozaf vinbejwu fogola de."
+  },
+  "apiKey": "32edbc8851f2d21c84dc33b28b33a3c90e212a0ef4952065a0dbf9ff1608bf9f",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
