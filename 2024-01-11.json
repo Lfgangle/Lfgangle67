@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Clark",
+  "age": 43,
+  "address": {
+    "street": "Tofu Terrace",
+    "city": "Lonwalid",
+    "state": "SC",
+    "zip": "22130"
+  },
+  "contact": {
+    "phone": "(311) 953-6344",
+    "servicePhone": "800597155"
+  },
+  "birthday": "1972-10-18T09:44:12.312Z",
+  "ip": "158.35.156.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Dathekma zirjutet ilumoli gib asa tag ehwilo cu cuopugug zal ov gawmurmoc jajob. Tivoug lev rotagro pubo gisizpev ige cufiana nehow holrug zafiwduf rigapzo rive cib zeci bah usarin. Ridpu dotne imihiigo benlep cicebme mijfom ethilu mer mefvep redmihuc ze fe ohi gi ibivam hegeme epso hehfa.",
+    "bio": "Cembi peejotog peeku zes ognovmon ve baca ahi cisu zu utijop loc osecehfup iwanusu kiwkekhij ju ja so. Naahta zunofga bo koac ojirozes tasi ahigikso lecjin mahim wih dop nif. Fusaha wa ezujid hifte akbozsu joneti jiw diub suplak eki ki ve ba ofahedusa ohagazu."
+  },
+  "apiKey": "caf9c8e9d20dc9db13b13f22b8ab8fbf3b674d598e6b9339ed1f174f75067159",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
