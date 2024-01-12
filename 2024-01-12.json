@@ -1,0 +1,26 @@
+{
+  "name": "Paul Cook",
+  "age": 32,
+  "address": {
+    "street": "Modgub Drive",
+    "city": "Nihewe",
+    "state": "VT",
+    "zip": "42910"
+  },
+  "contact": {
+    "phone": "(828) 415-9265",
+    "servicePhone": "800331751"
+  },
+  "birthday": "1998-07-31T08:44:21.427Z",
+  "ip": "202.182.217.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa no eziz hi wol taja ga dob fir fa nu suwultor pebfuvuka wubgirep ho seri wagum jogvisis. Caku bac azot osepug viv fu pod mo zot sarlo ro ka va lacibuh. Fu ofobowjah mug malem pus negul zunliodi soghuwki ki inhig ewekug bifvif. Niv zahigam wimzad ofni ahohhip mepajne sej hesuh rid kadsuzi igdazpo vubiga veg eto sowuzesi irieragab tosloc juvocumes.",
+    "bio": "Ve hemor pur ni nifpa biwel om faisu ahebiduz mozafiw uc uzalevpoj honja nun ib akja. Ce jecpi el moddub pep vuh daj pu jel huh locehkez awudi zaalo ibumaro. Gonmoccer lagtizfe ur lag fishucig muca etrof ukawe ikowa ju kol cu loj hirek. Tav migulel caz voj cujoub bus cizfihgu fovrawov pab tagunrab hoguge ketvo kapman. Uhgobi sa ekomaiso ot umo ladniga ruul owsafar majdi uba ohi ottockun fidum bembefta duawali ge kacsujaz di. Ufirubfek niwsos tij asaefago niafu wu em uvkem ri zavofe akfal ahobun."
+  },
+  "apiKey": "acbcc0b490d282b072d856e9d4a0089e15bc5194f19a95b03a8f67aba9e9aab1",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
