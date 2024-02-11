@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Caldwell",
+  "age": 19,
+  "address": {
+    "street": "Erisar Way",
+    "city": "Zunepa",
+    "state": "WY",
+    "zip": "13964"
+  },
+  "contact": {
+    "phone": "(389) 767-9167",
+    "servicePhone": "800179112"
+  },
+  "birthday": "1967-05-14T21:07:08.425Z",
+  "ip": "238.133.17.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Cel milzupoh viah za sohmuzhug idiamoli ku necdikur ivipat fafhu ciode bah cuho ta cavupo kon. Cavwazebo sid aw ri et vufic oziko todnahuk giz ejru nukcafba ojukec saz no daz oseriw ni. Vitihon soful vi cajocoki buded upa jeh jacuj dojeepu han mo ba gigdug zenelep ced lodamvis.",
+    "bio": "Vudna jigpe maog paowu ralijevi mo ruimoeje tokmusep le ona uwosonifi le amagilu. Vufetausu kemwi kime bimvij ducgoaco tu ape vic azesos lezru hojpiz ekga bog ufa fo do ujusuz. Farjamom vite odetut efelipgo obtoklel evnoh ucu tiumgo tawwusav labculod tuat kabino ruhjolvob oz pozbasli vekizirud."
+  },
+  "apiKey": "6a77de209a1ca0e064a4a5a58e01b5f3fec2ea6a80553a625d20e5a5077cbc1a",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
