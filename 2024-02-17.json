@@ -1,0 +1,26 @@
+{
+  "name": "Lena Lowe",
+  "age": 26,
+  "address": {
+    "street": "Zuimo Avenue",
+    "city": "Riotodot",
+    "state": "OH",
+    "zip": "64926"
+  },
+  "contact": {
+    "phone": "(809) 857-7588",
+    "servicePhone": "800282862"
+  },
+  "birthday": "1967-02-10T08:49:45.101Z",
+  "ip": "172.165.176.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoif el jubawog ahtevam ar sebomu vodevudi webbeh veviwag kepjom zovkek letop waf cogukfag je lep bipirro. Kifezi homtog rutriogo lirbojebo ru ilwo tuzet pi vozfabi naceboso kem velo iju. Olmada sa fab rirzi siroro vib ga he al gid otwi vol tuc zu udzop. Ledhalomi ovodulo gewrum ijfuazi lalujehur uvbe ge bi loszehji ukibantu reoki meivfeb ganpi lo lowenken eva.",
+    "bio": "Havbemma datdij huwdis hudwipku zacad rovem nacunbas cuvnijig co tuhfoba mojjef ticza jiwaidu uhe ecike te amede fug. Ji tec tuh ned nioli cuefku soci gah fuvugori afvo ivloplaw sar ir geksec utbug zakha. Osisej li sa luftusob ugru oc vahcu ifepoji umucu uboregos jos migise ge wigo."
+  },
+  "apiKey": "27a6f13e630503557e33db9aec248badbad464fd02be36a729e941614d15c045",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
