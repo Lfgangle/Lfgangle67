@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Chandler",
+  "age": 63,
+  "address": {
+    "street": "Sinsel Manor",
+    "city": "Kilbuhhu",
+    "state": "KS",
+    "zip": "96203"
+  },
+  "contact": {
+    "phone": "(835) 932-3722",
+    "servicePhone": "800126434"
+  },
+  "birthday": "2000-12-20T17:08:04.812Z",
+  "ip": "132.161.82.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Esi nami oju ubituk ovzese otizu de zegolidec ukjumca budoh rovoc wemsazuz. Gobecoso mi afeteopa cecrak dow dup hob ulotalu rovo ke neg nilwa zu we uc askape muculube ipuk. Ujecuzman ho ruhur hi toempep wiz seczev wigle zit mufaco owko di.",
+    "bio": "Bubjijulu buojehil ruc hutoso ceg ormugdos eluibufu tigaeh kuse onhoh kurwati coreku zukmoso nava cejekfi nih. Acuwal fu tid kaju lomvewef nuj ko uke piujore efu cunenjad zij cisebune peve kisicisaj. Kuppaiv vu mowel op mutta vuwcik jon me ap eroba hikhib nurin cirmim lipum. Non tu jocuw lasu opvejaj bimitkon ceota luke vaupalon vorsi lav natinoka vemed du ol."
+  },
+  "apiKey": "83dbdba9817b22016b36826596ee2657073a8a2d81b0d922a5345b22ae47e220",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
