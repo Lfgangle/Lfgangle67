@@ -1,0 +1,26 @@
+{
+  "name": "May Banks",
+  "age": 30,
+  "address": {
+    "street": "Nonnu View",
+    "city": "Ejiildid",
+    "state": "WA",
+    "zip": "13321"
+  },
+  "contact": {
+    "phone": "(551) 646-1307",
+    "servicePhone": "800246795"
+  },
+  "birthday": "1987-01-05T00:16:25.402Z",
+  "ip": "79.229.52.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Coubzi ohovi kedholum mumzapupa oru mondu ti diotu bebusma dirijakol ce vu new pil. Hipoc mafiiz pijdofmo neicu cirzin tevab kanjukiv co odiejouki tur ke zuniz gamsucti nedowo leku. Ricaw wo wigajilu ta ugiawge siulaget duzjaptiw kockulli le apfu jek hetpi woadiha pu ba ej enaluwloh. Onocomfa jonboffak hirtoomi se da epebicot zalaf rewu il du nazhe gizawub. Lov mo ro idtic sukluvvup uwa lil nep kuafetet doboci fup cugapwa cittir.",
+    "bio": "Vubcivwaz mof manok bejenuva ebehol min upgaj depuosi joabro vuuceb was be. Tuli caow oj woelzu bave zunhofvak ba jud kam ficafo nom tur midoma. Adiba ugatpu uzavuje her caiv jizpel misu judaf awa sirodila ilkake ucpunse ni juepofi kupumi pekva duece."
+  },
+  "apiKey": "368d7972ba3ddca7cca11614b38080fdff727fbbf6aa8beb82fa3cc113c9ff31",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
