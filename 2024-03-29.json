@@ -1,0 +1,26 @@
+{
+  "name": "Glen Crawford",
+  "age": 62,
+  "address": {
+    "street": "Lotril Glen",
+    "city": "Nugohfo",
+    "state": "OH",
+    "zip": "26654"
+  },
+  "contact": {
+    "phone": "(960) 364-9461",
+    "servicePhone": "800464989"
+  },
+  "birthday": "1976-09-21T11:45:32.270Z",
+  "ip": "130.60.174.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Lutnos aboune eceripan herwac vu so jatzo esonuc kudfa ficjehtat fe tifarwo. Soriiji vij kiun re vi zufaheg sorsukuh sov pec la mufa gavgesaw vukafoz edapobiji getzu ebrefrav. Abevuci asisa weuku luuwni bu edi ali lo kuz it rozatona puwat sevde.",
+    "bio": "Bofke worawawi tacsu derebem sugtinog puwfah abhowda mic ekpojeb lavkesav ve mukvopdod zuf illug edfop fejweno kefmoz jo. Leb huzuha bidzojsu fabhi namwasog ellu ze cairkah moppuzo wenubeg su lec ik igokabwin rozra. Iwracgam ripunuca hu pezhizvo zet sep fadov to afaga tag juado iwi fud zujduj hevu."
+  },
+  "apiKey": "470753961133414a7e74b40621ddd7641fc9b0caa6dccfb8c4aeba086dd890aa",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
