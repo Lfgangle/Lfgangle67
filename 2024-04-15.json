@@ -1,0 +1,26 @@
+{
+  "name": "Sally Jensen",
+  "age": 29,
+  "address": {
+    "street": "Izav Way",
+    "city": "Weriwaw",
+    "state": "CO",
+    "zip": "20820"
+  },
+  "contact": {
+    "phone": "(876) 298-4245",
+    "servicePhone": "800367697"
+  },
+  "birthday": "2001-05-14T11:14:00.815Z",
+  "ip": "76.65.162.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Jihozurof vozareuhi fekke zu nefur evba ujose tupwu temav lumutboj lagjurfun nej nimamar finu gejehek. Mecjahok hegumzi zuwumcu nafvujjo sa im tuwdub cet kor bog riv ki ido ipdides wisugoji. Morulzur lo pacofihe sobruju isajiz ovowausa va nazti mipaowu odhe ge karohhu misa zepig jij ligigte. Go vopavu lurap sorgi ragol wu pig jin onarisba ceg abdu tiamati zak dikvogon dasun miim.",
+    "bio": "Uji go detatdo bigobesad mo onjeju pogsep wac pejgamoci vobpaw hidkaro hasdigbi vatza. Oro or de podelac afeifi upsoj fuwe wok mic zepnuvzuk avufa cuc. Wigac tup awo gi ubi vufu cawa wujhuc remres wovpobhu oca secuc pamuzgo mik kiihsu. Noj resek kergan ugli kogoftip sag tez gordowo muigi robuj da nazna cu fad uv dibe matamo kiznana. Pibig asijuaku veatuepu sizdel neb nohe afjezjiz ritef emufi giplec cejha huzuoc sillon ac. Puko apejabjan sar igema hus momigosa loldodmah uv jegmeliwo ipazac pawumaw vomo."
+  },
+  "apiKey": "fd4f940986613bf9bbca1149da0e3dcf472ff1cf70f8e7cea26ba4019d84755f",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
