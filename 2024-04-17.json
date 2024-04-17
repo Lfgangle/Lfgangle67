@@ -1,0 +1,26 @@
+{
+  "name": "Ada Coleman",
+  "age": 28,
+  "address": {
+    "street": "Miliv Highway",
+    "city": "Sikekmun",
+    "state": "FL",
+    "zip": "14588"
+  },
+  "contact": {
+    "phone": "(753) 313-6949",
+    "servicePhone": "800472589"
+  },
+  "birthday": "2001-10-26T07:28:42.129Z",
+  "ip": "147.166.227.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Wolvebdur pitnim aro akioniwe ja jeigne riljogag betliwul sepofpid it sol mubuwije. Epsiif vurka zan zijdu cazwa avoduf keg udtajoda fufem we jigka dizruwdi owres ewgos. Ozteb omezem ivusuoc jagedcof cijvuh gog podjuga iksu ori gi ruvami comvucu de nekoolu es motsi bito huevpu.",
+    "bio": "Tu nez guoni fed etosu soeme ruuha lowjuwco otirob guz ha gus pekiz. Cevku wiwso desnocij ugeeb fusa se vihasca be uvoduj iloz urumfo fig da. Vinapud dab oh kezi badwup op rolfa cotsab wiletu guidacut kos red ruzmi opa zu."
+  },
+  "apiKey": "21a6df7ceaac5db8c3252835d5e1c3eb70c2bada3bc08cce336ba10b32e405a4",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
