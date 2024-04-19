@@ -1,0 +1,26 @@
+{
+  "name": "Jon Bishop",
+  "age": 25,
+  "address": {
+    "street": "Nouz Road",
+    "city": "Nabeni",
+    "state": "NH",
+    "zip": "94227"
+  },
+  "contact": {
+    "phone": "(308) 776-9181",
+    "servicePhone": "800155211"
+  },
+  "birthday": "1985-10-31T23:41:28.411Z",
+  "ip": "158.79.23.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Neuk woh deh to luc til gojcumif ede fi pujni vualisi dulpap lompenut jidzeneb. Arko suobbi hog sotik lukoir pal padunafa bumsestic jifu zehe po aha uhogoraba pu fi nucda. Teprijpa vien lel ud nu eh mezgo revugcoc tecreczo vozsemo gudawas juzapbi wini ipvu konaf iv suhmigemi wifef.",
+    "bio": "Kiwogu pafased ladeci pemtil vetritu ru wudne roske bava di ohi urare vanmod pubiv od ar le. Kisic vu ufocuri dintom le eteor siv ituzikiw nozpa duw kagcufut razpu wemjacib. Zorak ajkis cevziwfat offewuj efeih tomew be dowe juk bavdep wusagwe facma moj edtemi dutod."
+  },
+  "apiKey": "0e106f9f2a34c08f5927eab24855b9de0b589db3e83dc2cdbddf1738ac11a592",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
