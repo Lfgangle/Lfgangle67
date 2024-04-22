@@ -1,0 +1,26 @@
+{
+  "name": "Jason Cobb",
+  "age": 33,
+  "address": {
+    "street": "Zuvsi Place",
+    "city": "Woguroz",
+    "state": "SC",
+    "zip": "53085"
+  },
+  "contact": {
+    "phone": "(756) 411-2184",
+    "servicePhone": "800337183"
+  },
+  "birthday": "1960-06-09T17:54:24.171Z",
+  "ip": "168.24.135.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Cewtatzaj wo gi guthi kikmoow peguji ve nacivu zodza uz ir efo la norulaz uti mo mir. Cimuf har kotnot seazi ner dak gi nosi tebaju karaoz jow oreru fa em gef ir. Urogojbi mic luweuf mu osacuoza olifu miziasa pogef wogive cozzital kavuv zalgas.",
+    "bio": "Hidgicmos akiva fucini jev gincin miuhuacu fu ipimokwa deh gek kofnev ihfo beuw. Lotvupsiw wedsic atfawule oj rofamdu ih wib butge hihakepa komkambi podovus lafpohfij ezwef baku. Ompi gi he baz oluboeta wad to huh vizgeviso mup taspas tolud dukiop ip ono zefrarkon jogewpa."
+  },
+  "apiKey": "2cef6231f09c143bdccec82eb9cbc43fa40f66a64bacd70a7b9f0b2629686a01",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
